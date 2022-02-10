@@ -29,7 +29,7 @@
 To get a local copy up and running on your machine, follow these simple steps.
 Enter this in your terminal 👇 
 ``` 
-  git clone git@github.com:Qoosim/math-magicians-react.git 
+  git clone git@github.com:Qoosim/math-magicians.git 
 ``` 
 ## 🛠️ Prerequisites
 ```
