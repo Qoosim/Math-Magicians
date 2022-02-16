@@ -1,3 +1,4 @@
+import operate from '../logic/operate';
 
 describe('Test for the operate logic', () => {
   test('tests for division by zero', () => {
@@ -15,7 +16,6 @@ describe('Test for the operate logic', () => {
   test('tests for multiplication by integer value', () => {
     expect(operate('10', '2', 'x')).toBe('20');
   });
-  import operate from '../logic/operate';
 
   describe('Test for the operate logic', () => {
     test('tests for division by zero', () => {
