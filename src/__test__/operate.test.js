@@ -38,7 +38,7 @@ describe('Test for the operate logic', () => {
       expect(operate('10', '5', '-')).toBe('5');
     });
 
-    test('tests for subtraction by integer value', () => {
+    test('tests for substraction by integer value', () => {
       expect(operate('13', '5', '%')).toBe('3');
     });
 
