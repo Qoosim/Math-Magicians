@@ -2,7 +2,7 @@
 
 > This is a Math-Magicians calculator project to demostrate the knowledge acquired so far of React.
 
-![screenshot](./src/images/react-logo.jpeg)
+![screenshot](./src/images/ui_design.jpeg)
 
 ## ⚒️  Built with
 
@@ -29,7 +29,7 @@
 To get a local copy up and running on your machine, follow these simple steps.
 Enter this in your terminal 👇 
 ``` 
-  git clone git@github.com:Qoosim/math-magicians-react.git 
+  git clone git@github.com:Qoosim/math-magicians.git 
 ``` 
 ## 🛠️ Prerequisites
 ```
