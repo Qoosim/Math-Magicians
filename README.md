@@ -22,7 +22,7 @@
 
 ## 🖥️ Live Demo
 - [Heroku]() :point_left:
-- [Netlify]() :point_left:
+- [Netlify](https://math-magicians-app2.netlify.app/) :point_left:
 
 ## Getting Started
 
