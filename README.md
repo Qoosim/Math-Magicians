@@ -21,13 +21,8 @@
 - ReactJS
 
 ## 🖥️ Live Demo
-<<<<<<< HEAD
 - [Heroku]() :point_left:
 - [Netlify](https://math-magicians-app2.netlify.app/) :point_left:
-=======
-- [Heroku](https://math-magicians-app2.netlify.app/) :point_left:
-- [Netlify]() :point_left:
->>>>>>> feature/test
 
 ## Getting Started
 
